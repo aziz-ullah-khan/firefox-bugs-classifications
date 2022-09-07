@@ -1,6 +1,6 @@
-# firefox-bugs-classifications
+# Firefox Bugs Classifications
 
-### Firefox bugs are the issues found in the Mozilla Firefox. Collected the data from the official website of the [Mozilla]('https://bugzilla.mozilla.org/describecomponents.cgi').
+### Firefox bugs are the issues found in the Mozilla Firefox. Collected the data from the official website of the [Mozilla](https://bugzilla.mozilla.org/describecomponents.cgi)
 #### Sample bug is displayed herein:
 
 |Bug ID |	Type	| Summary	| Product	| Component |	Assignee |Status	| Resolution	| Updated
